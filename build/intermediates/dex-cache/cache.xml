@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/db9895e5461b57e7f04d0e98ebd40f07aa92f814/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyLoader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ad76e075c1c923d56d9ed2eebd8fbc4870214f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyLoader/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyLoader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1adc85b172249a34261f2da21fbf814a343a1342/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyLoader/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="34cad5ca2d5713bd0dea9b470638339ed208d6bd">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyLoader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_68c1d670ea6013d64ee39d556def9c1b3828c279/classes.dex" />
+    </item>
+
+</items>
